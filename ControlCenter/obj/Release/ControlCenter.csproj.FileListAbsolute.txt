@@ -1,0 +1,12 @@
+E:\source code\ControlCenter\ControlCenter\bin\Release\ControlCenter.exe.config
+E:\source code\ControlCenter\ControlCenter\bin\Release\ControlCenter.exe
+E:\source code\ControlCenter\ControlCenter\bin\Release\ControlCenter.pdb
+E:\source code\ControlCenter\ControlCenter\bin\Release\LuaAPI.dll
+E:\source code\ControlCenter\ControlCenter\bin\Release\SFLib.dll
+E:\source code\ControlCenter\ControlCenter\bin\Release\LuaInterface.dll
+E:\source code\ControlCenter\ControlCenter\bin\Release\lua51.dll
+E:\source code\ControlCenter\ControlCenter\obj\Release\ControlCenter.Form1.resources
+E:\source code\ControlCenter\ControlCenter\obj\Release\ControlCenter.Properties.Resources.resources
+E:\source code\ControlCenter\ControlCenter\obj\Release\ControlCenter.csproj.GenerateResource.Cache
+E:\source code\ControlCenter\ControlCenter\obj\Release\ControlCenter.exe
+E:\source code\ControlCenter\ControlCenter\obj\Release\ControlCenter.pdb

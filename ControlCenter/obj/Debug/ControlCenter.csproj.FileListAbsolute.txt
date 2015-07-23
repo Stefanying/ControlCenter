@@ -1,0 +1,13 @@
+E:\source code\ControlCenter\ControlCenter\obj\Debug\ControlCenter.csprojResolveAssemblyReference.cache
+E:\source code\ControlCenter\ControlCenter\obj\Debug\ControlCenter.Form1.resources
+E:\source code\ControlCenter\ControlCenter\obj\Debug\ControlCenter.Properties.Resources.resources
+E:\source code\ControlCenter\ControlCenter\obj\Debug\ControlCenter.csproj.GenerateResource.Cache
+E:\source code\ControlCenter\ControlCenter\bin\Debug\ControlCenter.exe
+E:\source code\ControlCenter\ControlCenter\bin\Debug\ControlCenter.pdb
+E:\source code\ControlCenter\ControlCenter\bin\Debug\LuaAPI.dll
+E:\source code\ControlCenter\ControlCenter\bin\Debug\SFLib.dll
+E:\source code\ControlCenter\ControlCenter\bin\Debug\LuaInterface.dll
+E:\source code\ControlCenter\ControlCenter\bin\Debug\lua51.dll
+E:\source code\ControlCenter\ControlCenter\obj\Debug\ControlCenter.exe
+E:\source code\ControlCenter\ControlCenter\obj\Debug\ControlCenter.pdb
+E:\source code\ControlCenter\ControlCenter\bin\Debug\ControlCenter.exe.config

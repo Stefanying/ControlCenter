@@ -1,0 +1,30 @@
+<Root>
+  <Time>
+    <TimeValue>16:23</TimeValue>
+    <Operation>
+      <OperationName>22</OperationName>
+      <OperationType>TCP</OperationType>
+      <OperationDataType>Character</OperationDataType>
+      <OperationData>sadsadsadsadsa</OperationData>
+      <OperationTime>0</OperationTime>
+      <OperationSetting>
+        <IP>192.168.1.254</IP>
+        <Port>8899</Port>
+      </OperationSetting>
+    </Operation>
+  </Time>
+  <Time>
+    <TimeValue>18:36</TimeValue>
+    <Operation>
+      <OperationName>213</OperationName>
+      <OperationType>TCP</OperationType>
+      <OperationDataType>Character</OperationDataType>
+      <OperationData>asdsadasdsad</OperationData>
+      <OperationTime>0</OperationTime>
+      <OperationSetting>
+        <IP>192.168.1.254</IP>
+        <Port>8899</Port>
+      </OperationSetting>
+    </Operation>
+  </Time>
+</Root>
